@@ -1,0 +1,5 @@
+logo_homepage: com.example.myapplication:id/imageView4
+mainImage_homepage: com.example.myapplication:id/imageView
+Buttonsignin: com.example.myapplication:id/login
+username_homepage: com.example.myapplication:id/textView
+error_page_login: 

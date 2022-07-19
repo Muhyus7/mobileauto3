@@ -1,0 +1,3 @@
+Input_username: com.example.myapplication:id/username
+Input_password: //*[@resource-id='com.example.myapplication:id/password']
+Buttonsignin_login: com.example.myapplication:id/signIn
